@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Angular Framework**
 
-- 📝 I regularly write articles on [stackoverflow](stackoverflow)
-
 - 💬 Ask me about **spring, angular, git, sql, jboss, docker, java, bitbucket and other!**
 
 - 📫 How to reach me **aligatorbol@gmail.com**
