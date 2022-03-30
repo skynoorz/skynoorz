@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **aligatorbol@gmail.com**
 
-- 📄 Know about my experiences [I have worked developing and managing services on Quantum SRL, and now working at TD Bank at Canada Toronto](I have worked developing and managing services on Quantum SRL, and now working at TD Bank at Canada Toronto)
+- 📄 Know about my experiences [I have worked developing and managing services on Quantum SRL, and now working at TD Bank at Canada Toronto]
 
 - ⚡ Fun fact **I develop with my gaming computer :P**
 
