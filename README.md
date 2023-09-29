@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Angular Framework**
 
-- 💬 Ask me about **spring, angular, git, sql, jboss, docker, java, bitbucket and other!**
+- 💬 Ask me about **java, spring, angular, git, sql, docker and other!**
 
 - 📫 How to reach me **aligatorbol@gmail.com**
 
